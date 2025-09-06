@@ -39,7 +39,27 @@ Rev-002
 Rev-003
 Rev-004
 
-This main -001
-This main -002
-This main -003
+### 9/6/2025
+```
+git rebase -i HEAD~2
+
+
+Change the commits you want to remove to squash.
+
+pick b019170 010-A GitHistory
+squash fc257e9 0014-A GitHistory.md
+squash 7eb16b9 Rev-001
+squash 1e1816c 9-6-2025
+```
+
+
+```
+git onto...
+main Rev-001
+main Rev-002
+main Rev-003
+
+```
+
+
 

@@ -20,3 +20,15 @@ randy:~/sandbox/GhostNotes> git lg2
    Initial commit - Randy Callaway
 randy:~/sandbox/GhostNotes> 
 ```
+
+
+```
+git rebase --onto TopicA~3 TopicA~2 TopicA
+
+
+git rebase --onto TargetA~2 TargetA~1 TargetA
+```
+
+**[Git merge delete thing](https://stackoverflow.com/questions/14043961/git-squash-history-after-merge)**
+
+**[Git merge error](https://stackoverflow.com/questions/16862933/how-to-resolve-gits-not-something-we-can-merge-error)**

@@ -24,3 +24,4 @@ randy:~/sandbox/GhostNotes>
 
 **[Git merge delete thing](https://stackoverflow.com/questions/14043961/git-squash-history-after-merge)**
 
+**[Git merge error](https://stackoverflow.com/questions/16862933/how-to-resolve-gits-not-something-we-can-merge-error)**

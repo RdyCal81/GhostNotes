@@ -25,6 +25,7 @@ randy:~/sandbox/GhostNotes>
 ```
 git rebase --onto TopicA~3 TopicA~2 TopicA
 
+
 git rebase --onto TargetA~2 TargetA~1 TargetA
 ```
 

@@ -20,3 +20,7 @@ randy:~/sandbox/GhostNotes> git lg2
    Initial commit - Randy Callaway
 randy:~/sandbox/GhostNotes> 
 ```
+
+
+**[Git merge delete thing](https://stackoverflow.com/questions/14043961/git-squash-history-after-merge)**
+

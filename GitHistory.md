@@ -33,6 +33,8 @@ git rebase --onto TargetA~2 TargetA~1 TargetA
 
 **[Git merge error](https://stackoverflow.com/questions/16862933/how-to-resolve-gits-not-something-we-can-merge-error)**
 
+[Git Thing 1](https://stackoverflow.com/questions/43489303/how-can-i-delete-all-git-branches-which-have-been-squash-and-merge-via-github)
+
 
 Rev-001
 Rev-002
@@ -73,13 +75,11 @@ This
 BraA-Commit-A
 BraA-Commit-B
 BraA-Commit-C
-<<<<<<< HEAD
 
 main-Rev-001
 main-Rev-002
 main-Rev-003
-=======
->>>>>>> ec815a31e571d12a85b738e059684a216b85ef80
+ec815a31e571d12a85b738e059684a216b85ef80
 Bra-A-Rev-001
 Bra-A-Rev-002
 Bra-A-Rev-003

@@ -83,3 +83,15 @@ ec815a31e571d12a85b738e059684a216b85ef80
 Bra-A-Rev-001
 Bra-A-Rev-002
 Bra-A-Rev-003
+vRef
+R89: 21.0kΩ
+R90: 19.6kΩ
+
+
+1°C/min to 50°C
+soak 60min
+1°C/min to 0°C
+soak 60min
+repeat
+
+```

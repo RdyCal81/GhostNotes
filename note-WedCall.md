@@ -48,6 +48,8 @@ Later
 ## SW
 [SW Issues](https://gitlab.canoga.com/legacy2/9145e-10g-r2/-/issues)
 
+## Delete a branch
+[Delete main history](https://xebia.com/blog/deleting-your-commit-history/)
 
 
 ```
